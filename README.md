@@ -165,6 +165,3 @@ According to the model, March 2018 has the highest predicted sales among the six
 
 This project demonstrates how historical sales data can be used to develop predictive models for future sales forecasting. The Superstore dataset was cleaned and preprocessed before being aggregated into monthly sales data. Three regression approaches were developed and evaluated using MAE, RMSE, and R². Among the tested models, Seasonal Regression performed the best, achieving an R² score of approximately 0.634, an MAE of approximately 10,797, and an RMSE of approximately 14,421. The selected model was subsequently used to forecast sales for six future months from January 2018 to June 2018. Overall, this project demonstrates the application of predictive analytics, regression modeling, seasonal analysis, model evaluation, and data visualization to support data-driven business decision-making.
 
-## Author
-
-Kanchan Deshmukh
